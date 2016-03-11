@@ -7,7 +7,7 @@
  ```bash
  pip install -U -r req.txt
 ```
-3. Finish
+ 3. Finish
 
 ###Task 1
 
